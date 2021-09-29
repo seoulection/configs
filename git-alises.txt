@@ -1,0 +1,9 @@
+alias.co=checkout
+alias.ci=commit
+alias.st=status
+alias.br=branch
+alias.ps=push
+alias.pl=pull
+alias.rb=rebase
+alias.cbr=checkout -b
+alias.can=commit --amend --no-edit
