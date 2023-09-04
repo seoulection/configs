@@ -1,0 +1,6 @@
+*.DS_Store
+*.sw[op]
+.netrwhist
+vim-dotfiles/vim/plugin/vim_hardtime.vim
+vim-dotfiles/vim/plugged
+vim-dotfiles/vim/undodir
