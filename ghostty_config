@@ -1,6 +1,6 @@
 font-family = JetBrains Mono SemiBold
-font-size = 15
-theme = Chalk
+font-size = 15 
+theme = xcodedarkhc
 mouse-hide-while-typing = true
 macos-titlebar-style = tabs
 
@@ -16,8 +16,8 @@ keybind = ctrl+a>c=new_tab
 keybind = ctrl+a>n=next_tab
 keybind = ctrl+a>p=previous_tab
 
-keybind = ctrl+a>+=resize_split:up,100
-keybind = ctrl+a>-=resize_split:down,100
+keybind = ctrl+a>plus=resize_split:up,100
+keybind = ctrl+a>minus=resize_split:down,100
 keybind = ctrl+a>0=equalize_splits
 
 keybind = ctrl+backspace=text:\x15
@@ -30,3 +30,6 @@ keybind = ctrl+a>2=goto_tab:2
 keybind = ctrl+a>3=goto_tab:3
 keybind = ctrl+a>4=goto_tab:4
 keybind = ctrl+a>5=goto_tab:5
+
+keybind = ctrl+a>left_bracket=write_scrollback_file:paste
+
